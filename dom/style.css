@@ -1,0 +1,16 @@
+.one{
+    color: green;
+    background-color: blue;
+    width:200px;
+    height:200px;
+}
+.two{
+    color: red;
+    background-color: yellow;
+    width:200px;
+    height:200px;
+}
+
+#three{
+    color: purple;
+}

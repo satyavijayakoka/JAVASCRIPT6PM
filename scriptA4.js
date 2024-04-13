@@ -162,11 +162,11 @@ Promise.race([
 // Promise.any()
 
 
-Promise.any([
-    Promise.reject("bye"),
-    Promise.reject("bye2"),
-    Promise.reject("bye3"),
-])
+// Promise.any([
+//     Promise.reject("bye"),
+//     Promise.reject("bye2"),
+//     Promise.reject("bye3"),
+// ])
 
 
 
